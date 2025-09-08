@@ -1,0 +1,10 @@
+Pygame — a university lab project for course CSE200L, assigned by our lab instructor, Md. Junayed Hossain.
+We started from a provided base code and built the rest ourselves.
+Development and testing were led by Jarif Ansath Aorko.
+Problem-solving and line-by-line documentation were handled by Tousif Siddique.
+Feature brainstorming and the project report were completed by Bisshwajit Chandra Das.
+
+Roles:
+Aorko – Developer & Tester
+Bisswajit – Report Writer & Feature Brainstorming
+Tousif – Problem Solving & Documentation
